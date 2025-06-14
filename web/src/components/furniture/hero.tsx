@@ -8,10 +8,10 @@ export default component$(() => {
       <div class="hero-content text-center bg-front shadow-sm lg:rounded-xl w-full">
         <div class="max-w-2xl flex flex-col place-items-center">
           <p>The Ultimate</p>
-          <h1 class="text-5xl font-bold">Personal Security Checklist</h1>
-          <p class="subtitle pb-6">Your guide to securing your digital life and protecting your privacy</p>
+          <h1 class="text-5xl font-bold">Travel Security Checklist</h1>
+          <p class="subtitle pb-6">Your guide to travel safely</p>
           <Icon class="mb-4" icon="shield" width={120} height={120}  />
-          <a href="https://github.com/lissy93/personal-security-checklist">
+          <a href="https://github.com/ariiellus/sec-checklist">
             <button class="btn btn-primary btn-lg">
               <Icon icon="github" width={20} height={20}  />
               View on GitHub

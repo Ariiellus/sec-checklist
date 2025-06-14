@@ -326,12 +326,12 @@ export default component$(() => {
       {/* Something ??? */}
       <div class="p-4 rounded-box bg-front shadow-md w-96 flex-grow">
         <p class="text-sm opacity-80 mb-2">
-          Next up, consider switching to more secure and
-          privacy-respecting apps and services.
+          Next up, consider review other lists to keep improving your security.
         </p>
         <p class="text-lg">
-          View our directory of recommended software,
-          at <a class="link link-secondary font-bold" href="https://awesome-privacy.xyz">awesome-privacy.xyz</a>
+          <a class="link link-secondary font-bold" href="https://ef-security-checklist.vercel.app/">General Security Checklist</a>
+          <br />
+          <a class="link link-secondary font-bold" href="https://hacked-security-checklist.vercel.app/">Hacked Security Checklist</a>
         </p>
       </div>
     </div>
